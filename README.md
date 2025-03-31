@@ -1,4 +1,4 @@
-# User Group resouruces-ai-skillsfest
+# User Group Resources : AI-Skillsfest
 ### Reusable template for user groups participating in the Microsoft 50th anniversary AI Skillsfest Event
 
 #### Resources
