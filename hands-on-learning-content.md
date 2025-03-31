@@ -9,4 +9,4 @@
   - Corresponding content : [MS Learn : Develop generative AI apps in Azure AI Foundry](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
 - [LABS : AI Agents for Beginners - A Course](https://microsoft.github.io/ai-agents-for-beginners/)
 - [LABS : Develop AI Agents in Azure](https://microsoftlearning.github.io/mslearn-ai-agents/)
-- [LABS { Microsoft Azure AI Fundamentals](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals)
+- [LABS : Microsoft Azure AI Fundamentals](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals)
