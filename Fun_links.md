@@ -19,3 +19,6 @@ https://aiskillsfest.event.microsoft.com/sessioncatalog?SkipCount=1&showstyle=li
 
 ai agents for beginners:
 https://microsoft.github.io/ai-agents-for-beginners/01-intro-to-ai-agents/
+
+For kids:
+https://code.org/curriculum/generative-ai
