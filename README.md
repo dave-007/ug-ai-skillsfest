@@ -7,7 +7,7 @@
 
 [Microsoft AI Skillsfest Event](https://aiskillsfest.event.microsoft.com/)
 
-[AI Agent Hackathon shortlink](aka.ms/agentshack)
+[AI Agent Hackathon shortlink](https://aka.ms/agentshack)
 
 [Microsoft Learning Plan for Entire AI Skillsfest Event shortlink](https://aka.ms/AIAgent_Skilling)
 
