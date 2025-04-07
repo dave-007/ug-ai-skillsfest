@@ -1,4 +1,4 @@
-#Fun AI Links
+# Fun AI Links
 
 - https://github.com/microsoft/Generative-AI-for-beginners-dotnet?tab=readme-ov-file
 - https://microsoft.github.io/generative-ai-for-beginners/#/
