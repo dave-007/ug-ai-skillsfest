@@ -7,10 +7,9 @@
 
 [AI Agent Hackathon shortlink](aka.ms/agentshack)
 
-[Microsoft Learning Plan for Entire AI SKillsfest Event shortlink](https://aka.ms/AIAgent_Skilling)
+[Microsoft Learning Plan for Entire AI Skillsfest Event shortlink](https://aka.ms/AIAgent_Skilling)
 
 [Hands-On Learning Content](./hands-on-learning-content.md)
 
-[Local South Florida AI Skillsfest Event Saturday April 19 at Broward College]
-(https://aiskillsfest.com/)
+[Local South Florida AI Skillsfest Event Saturday April 19 at Broward College](https://aiskillsfest.com/)
 
